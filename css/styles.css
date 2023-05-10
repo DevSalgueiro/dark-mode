@@ -1,8 +1,18 @@
 * {
-    font-family: Helvetica;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mulish', sans-serif;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+}
+
+
+.logo {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Sigmar', cursive;
+    color: #222222;
+    letter-spacing: 2px;
 }
 
 html, body {
@@ -79,8 +89,9 @@ main {
 }
 
 .card-details h2 {
-    font-size: 3rem;
+    font-size: 3.4rem;
     margin-bottom: 1rem;
+    font-weight: bold;
 }
 
 .subtitle {
@@ -147,6 +158,14 @@ main {
 
 .dark .subtitle {
     color: #67b4f3;
+}
+
+
+.dark  .logo {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Sigmar', cursive;
+    color: #ffffff;
 }
 
 
