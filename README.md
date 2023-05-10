@@ -6,8 +6,6 @@ The application was developed to test the dark mode version of the website. When
 <h3> Desktop version </h3>
 <br>
 
-![33](https://github.com/DevSalgueiro/dark-mode/assets/111023661/842e9acc-af65-4881-b3a4-8c2624dfeaf6)
-
 ![22](https://github.com/DevSalgueiro/dark-mode/assets/111023661/3f686ef8-f419-4cb2-9772-e280ffdb4a2c)
 
 
