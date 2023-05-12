@@ -23,7 +23,7 @@ You can see how the page looks by accessing the link below:
 
 
 
-https://github.com/DevSalgueiro/dark-mode/assets/111023661/38a798d2-77b1-4ccb-a7e1-491352f95630
+
 
 
 
