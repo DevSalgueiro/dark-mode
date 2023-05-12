@@ -21,6 +21,9 @@ You can see how the page looks by accessing the link below:
 ![22](https://github.com/DevSalgueiro/dark-mode/assets/111023661/3f686ef8-f419-4cb2-9772-e280ffdb4a2c)
 
 
+![1](https://github.com/DevSalgueiro/dark-mode/assets/111023661/61ba1f61-791c-4e4e-b3c3-3813d4175152)
+
+
 
 
 
