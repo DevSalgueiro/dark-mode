@@ -18,8 +18,13 @@ You can see how the page looks by accessing the link below:
 <h3> Desktop version </h3>
 <br>
 
-
 ![22](https://github.com/DevSalgueiro/dark-mode/assets/111023661/3f686ef8-f419-4cb2-9772-e280ffdb4a2c)
+
+
+
+
+https://github.com/DevSalgueiro/dark-mode/assets/111023661/38a798d2-77b1-4ccb-a7e1-491352f95630
+
 
 
  
